@@ -35,17 +35,13 @@
     "build": "yarn build-ts && yarn patch-import",
     "start": "yarn build-ts --watch",
     "test": "jest",
-    "prepublish": "yarn build",
     "type-check": "tsc --project tsconfig.json",
     "lint": "eslint",
     "lint-all": "yarn lint \"**/*.{js,jsx,ts,tsx}\"",
     "commit": "git-cz",
     "prettify": "prettier",
     "storybook": "start-storybook -p 6006",
-    "build-storybook": "build-storybook",
-    "release": "standard-version",
-    "prepack": "pinst --disable",
-    "postpack": "pinst --enable"
+    "build-storybook": "build-storybook"
   },
   "devDependencies": {
     "@babel/cli": "7.22.9",
