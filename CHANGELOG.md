@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [2.2.8](https://github.com/dromru/react-photoswipe-gallery/compare/v2.2.7...v2.2.8) (2023-09-18)
+
+
+### Bug Fixes
+
+* typing ([2c7461c](https://github.com/dromru/react-photoswipe-gallery/commit/2c7461c9c923ae4e0b16256c8a89bbaa39e0891c))
+* typings ([ee20a0f](https://github.com/dromru/react-photoswipe-gallery/commit/ee20a0f7bee44ee9ebd5afeb546ba173ef9b632a))
+* useLayoutEffect replaced with useCallback ([3cb6fd6](https://github.com/dromru/react-photoswipe-gallery/commit/3cb6fd6a429857a9d1f6b490872a9de5d83133e0))
+* useLayoutEffect replaced with useCallback ([4c6e9bb](https://github.com/dromru/react-photoswipe-gallery/commit/4c6e9bb82eb53cf0662bf662b7e425c9dc8af4ea)), closes [#1163](https://github.com/dromru/react-photoswipe-gallery/issues/1163)
+
 ## [2.2.7](https://github.com/dromru/react-photoswipe-gallery/compare/v2.2.6...v2.2.7) (2023-04-03)
 
 
