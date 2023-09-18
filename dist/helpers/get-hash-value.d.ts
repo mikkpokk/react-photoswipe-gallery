@@ -1,2 +1,2 @@
-declare function getHashValue(): string
-export default getHashValue
+declare function getHashValue(): string;
+export default getHashValue;

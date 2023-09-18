@@ -44,7 +44,6 @@
     "storybook": "start-storybook -p 6006",
     "build-storybook": "build-storybook",
     "release": "standard-version",
-    "postinstall": "husky install",
     "prepack": "pinst --disable",
     "postpack": "pinst --enable"
   },

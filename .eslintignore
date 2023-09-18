@@ -3,8 +3,6 @@
 coverage
 dist
 node_modules
-dist
 storybook-static
-coverage
 .vscode
 .idea

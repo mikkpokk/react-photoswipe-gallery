@@ -1,2 +1,2 @@
-declare function getBaseUrl(): string
-export default getBaseUrl
+declare function getBaseUrl(): string;
+export default getBaseUrl;

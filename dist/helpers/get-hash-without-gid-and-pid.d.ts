@@ -1,2 +1,2 @@
-declare function getHashWithoutGidAndPid(hash: string): string
-export default getHashWithoutGidAndPid
+declare function getHashWithoutGidAndPid(hash: string): string;
+export default getHashWithoutGidAndPid;
